@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Random/2024-09-03/2024-09-03.iml" filepath="$PROJECT_DIR$/Random/2024-09-03/2024-09-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Language Wise Coding Practice/Java/Java.iml" filepath="$PROJECT_DIR$/Language Wise Coding Practice/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Language Wise Coding Practice/Language Wise Coding Practice.iml" filepath="$PROJECT_DIR$/Language Wise Coding Practice/Language Wise Coding Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Random-Leetcode-Pattern.iml" filepath="$PROJECT_DIR$/.idea/Random-Leetcode-Pattern.iml" />
     </modules>
