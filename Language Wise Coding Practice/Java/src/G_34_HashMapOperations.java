@@ -6,7 +6,7 @@ public class G_34_HashMapOperations {
     }
 }
 
-class GfG
+class GfG_G_34_HashMapOperations
 {
     /*Inserts an entry with key x and value y in map */
     void add_Value(HashMap<Integer,Integer> hm, int x, int y)
