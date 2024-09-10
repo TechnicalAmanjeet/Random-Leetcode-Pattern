@@ -1,3 +1,5 @@
+package D_2024_09_09;
+
 public class G_019_CountDigitInFactorial {
     public static void main(String[] args) {
 
